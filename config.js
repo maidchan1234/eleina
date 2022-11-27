@@ -54,20 +54,19 @@ global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '082288502856' //Nomor Danamu
-global.ppulsa = '082288502856' //Nomor SimCard Yang Kamu Pake
-global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081228398601' //Nomor Danamu
+global.ppulsa Xl = '087752286364' //Nomor SimCard Yang Kamu Pake
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288271862643' //Nomor Bot
-global.nomorown = '6282288502856' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = 'Iky' // Nama Owner
+global.nomorbot = '081228398601' //Nomor Bot
+global.nomorown = '087752286364' //Nomor Owner
+global.namebot = 'MaidChan' //Nama Bot
+global.nameown = 'Dyo Rizqi Dewangga' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282288502856', '❦ Iky? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['087752286364', 'DYO', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,14 +98,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
+global.wm = '                「 MAID CHAN」' //Main Watermark
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://ibb.co/17RY7x9'
+global.logo = 'https://ibb.co/Lxx4P0S'
 
 
 
@@ -331,7 +328,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '087752286364'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -374,7 +371,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Maid Chan'
 
 global.multiplier = 38 // The higher, The harder levelup
 
